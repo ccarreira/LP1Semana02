@@ -1,2 +1,8 @@
 <Solution>
+  <Project Path="ChatGPTZero/ChatGPTZero.csproj" />
+  <Project Path="Cilindro/Cilindro.csproj" />
+  <Project Path="FormataString/FormataString.csproj" />
+  <Project Path="SmoothOperator/SmoothOperator.csproj" />
+  <Project Path="ValoresEspeciais/ValoresEspeciais.csproj" />
+  <Project Path="VariousOperators/VariousOperators.csproj" />
 </Solution>
