@@ -29,7 +29,7 @@ namespace FormataString
             double p = 0.2567;
             Console.WriteLine($"Percentagem = {p:P2}");
 
-            //notacao cientifuica
+            //notacao cientifica
             double v = 12345.6789;
             Console.WriteLine($"v = {v:E2}");
 

@@ -3,6 +3,7 @@
   <Project Path="Cilindro/Cilindro.csproj" />
   <Project Path="FormataString/FormataString.csproj" />
   <Project Path="SmoothOperator/SmoothOperator.csproj" />
+  <Project Path="TempConvert/TempConvert.csproj" />
   <Project Path="ValoresEspeciais/ValoresEspeciais.csproj" />
   <Project Path="VariousOperators/VariousOperators.csproj" />
 </Solution>
