@@ -1,0 +1,16 @@
+dotnet new sln
+dotnet new gitignore 
+dotnet new lpconsole --name FormataString
+dotnet sln add FormataString
+-dotnet build FormataString
+dotnet run --project FormataString
+
+
+git init
+git branch -M main
+git remote add origin https://github.com/ccarreira/LP1Semana02.git
+-git remote remove origin (remove remote)
+git add .   
+git commit -m "First commit" 
+git push -u origin main (1 uso)
+git push origin  
