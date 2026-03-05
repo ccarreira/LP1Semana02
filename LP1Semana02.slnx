@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="BreakContinue/BreakContinue.csproj" />
+  <Project Path="ChatGPTOne/ChatGPTOne.csproj" />
   <Project Path="ChatGPTZero/ChatGPTZero.csproj" />
   <Project Path="Cilindro/Cilindro.csproj" />
   <Project Path="FormataString/FormataString.csproj" />
